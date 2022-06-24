@@ -1,0 +1,8 @@
+D:\Visual studio\Repos\Задание\Задание\bin\Debug\Задание.exe.config
+D:\Visual studio\Repos\Задание\Задание\bin\Debug\Задание.exe
+D:\Visual studio\Repos\Задание\Задание\bin\Debug\Задание.pdb
+D:\Visual studio\Repos\Задание\Задание\obj\Debug\Задание.csproj.AssemblyReference.cache
+D:\Visual studio\Repos\Задание\Задание\obj\Debug\Задание.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\Repos\Задание\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+D:\Visual studio\Repos\Задание\Задание\obj\Debug\Задание.exe
+D:\Visual studio\Repos\Задание\Задание\obj\Debug\Задание.pdb
